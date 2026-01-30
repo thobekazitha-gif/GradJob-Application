@@ -4,7 +4,7 @@
 
 # GradJob Application – End-to-End AI Solution
 
-## Capstone Project (Logic League)
+## Capstone Project 
 
 **Program:** Tech Career Accelerator (CAPACITI)  
 **Project Type:** End-to-End AI Application  
